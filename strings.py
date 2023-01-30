@@ -86,20 +86,20 @@ print(a + b +c)
 #
 # # F- strings allow us to use methods/ evaulations too
 
-name = "Snoopy"
-years = 52
-
-print(f"{name.upper()} is {years * 7} years old in dog years")
-
-#F strind yo specify precision in rounding and decimals
-
-pi = 3.14159265359
-print(f"pi to 3 decimal placed: {pi:.3f}") # pi to 3 decimal places
-print(f"pi to 3 decimal placed: {pi:.5f}") # pi to 5 decimal places
-
-score = 16
-max_score = 26
-print(f"you scored {score/max_score}")
-print(f"you scored {score/max_score:%}") #61.53
-print(f"you scored {score/max_score:.2%}")
+# name = "Snoopy"
+# years = 52
+#
+# print(f"{name.upper()} is {years * 7} years old in dog years")
+#
+# #F strind yo specify precision in rounding and decimals
+#
+# pi = 3.14159265359
+# print(f"pi to 3 decimal placed: {pi:.3f}") # pi to 3 decimal places
+# print(f"pi to 3 decimal placed: {pi:.5f}") # pi to 5 decimal places
+#
+# score = 16
+# max_score = 26
+# print(f"you scored {score/max_score}")
+# print(f"you scored {score/max_score:%}") #61.53
+# print(f"you scored {score/max_score:.2%}")
 
