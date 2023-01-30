@@ -1,6 +1,7 @@
 # Boolean
 
 # True or False
+# Remember to capitalise!
 
 # a = True
 # b = False
@@ -52,3 +53,4 @@ print(x == None) #d irect comparison- more somplex
 print(x is None) # Best practice for checking if something is none
 
 print(type(x)) # <class 'NoneType'>
+
