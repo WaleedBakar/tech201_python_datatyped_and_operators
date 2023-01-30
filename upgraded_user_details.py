@@ -8,4 +8,4 @@ print("Next, Please enter your address")
 address = input(str())
 print("Also, what sports do you play?")
 sport = input()
-print(f"So, your name is {name.capitalize()} , you're {age} years old, born on {DOB} and you live at {address.upper()}.what do you like to play {sport.upper()}
+print(f"So, your name is {name.capitalize()} , you're {age} years old, born on {DOB} and you live at {address.upper()}.what do you like to play {sport.upper}()}
